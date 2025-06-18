@@ -1,0 +1,20 @@
+{
+    "name": "cobblemon:global_skins",
+    "order": 0,
+"variations": [
+        {
+            "aspects": ["nurse_joy"],
+            "poser": "cobblemon:standard",
+            "model": "cobblemon:alex.geo",
+            "texture": "cobblemon:textures/npcs/nurse_joy.png",
+            "layers": []
+        },
+        {
+            "aspects": ["nessa"],
+            "poser": "cobblemon:standard",
+            "model": "cobblemon:alex.geo",
+            "texture": "cobblemon:textures/npcs/nessa.png",
+            "layers": []
+        }
+    ]
+}

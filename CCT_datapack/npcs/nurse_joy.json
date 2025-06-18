@@ -1,0 +1,26 @@
+{
+    "resourceIdentifier": "cobblemon:global_skins",
+    "hitbox": "player",
+    "canDespawn": false,
+    "isMovable": false,
+    "isInvulnerable": true,
+    "isLeashable": false,
+    "allowProjectileHits": false,
+    "presets": [
+    ],
+    "ai": [
+        {
+            "type": "apply_behaviours",
+            "presets": [
+                "cobblemon:core"
+            ]
+        }
+    ],
+    "names": [
+        "§d§lNurse Joy§r"
+    ],
+    "interaction": {
+        "type": "dialogue",
+        "dialogue": "cobblemon:nursejoy_interaction"
+    }
+}
