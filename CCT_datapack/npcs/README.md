@@ -17,7 +17,7 @@ Here is an example of an NPC. Think of NPC's as like a folder of assets, where y
   "ai": [
     {
       "type": "apply_behaviours",
-      "presets": [
+      "behaviours": [
         "cobblemon:core"
       ]
     }
