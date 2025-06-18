@@ -30,6 +30,6 @@ Here is an example of an NPC. Think of NPC's as like a folder of assets, where y
 To begin, we first need to specify the ``resourceIdentifier`` of the NPC. This tell the game client where to look for the skin. To configure this, you will need to make sure you have set up your [Resource Pack](https://github.com/TempusMMORPG/Cobblemon_Creation_Toolkit/tree/main/CCT_resourcepack).
 
 For our example, we have all humanoid skin variations(resolvers) saved in one global file named ``global_skins``. If you choose to do this method, you will need to edit the npc in-game, and type in the aspect name for the npc like this:
- <img src="https://jmp.sh/zICFaoQD"/>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/AeyFmi3kcSpCaPzS6Mph" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Alternatively, you can create your own variations(resolvers) for each individual npc, which would then apply the skin as soon as that NPC is spawned in. 
