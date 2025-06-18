@@ -31,6 +31,6 @@ To begin, we first need to specify the ``resourceIdentifier`` of the NPC. This t
 
 For our example, we have all humanoid skin variations(resolvers) saved in one global file named ``global_skins``. If you choose to do this method, you will need to edit the npc in-game, and type in the aspect name for the npc like this:
 
-![skin_set](https://jumpshare.com/embed/AeyFmi3kcSpCaPzS6Mph)
+![skin_set](https://jmp.sh/zICFaoQD)
 
 Alternatively, you can create your own variations(resolvers) for each individual npc, which would then apply the skin as soon as that NPC is spawned in. 
