@@ -34,7 +34,7 @@ For our example, we have all humanoid skin variations(resolvers) saved in one gl
 Alternatively, you can create your own variations(resolvers) for each individual npc, which would then apply the skin as soon as that NPC is spawned in. [See More](https://gitlab.com/cable-mc/cobblemon/-/tree/main/common/src/main/kotlin/com/cobblemon/mod/common/api/npc#npc-variation)
 
 # NPC Fields
-Below are a number of different fields you can add to an NPC with various use cases. I have listed some of the most common ones below:
+Below are some of the most common fields you can add to an NPC with various use cases:
 
 | **Field**   | **Description** |
 | :---------------- | :------ |
