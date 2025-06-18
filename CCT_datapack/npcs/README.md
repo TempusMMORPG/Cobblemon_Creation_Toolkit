@@ -40,7 +40,7 @@ Below are some of the most common fields you can add to an NPC with various use 
 | :---------------- | :------ |
 | hitbox        |   Sets the hitbox for an NPC. Default "player" also accepts values such as ``"hitbox": { "width": 1.0, "height": 1.0}`` |
 | canDespawn           |   ``true/false`` - enables or disables despawning of the NPC, in most cases you will want this set to false   |
-| isMovable    |  ``true/false`` - enables or disables movement of the NPC via pushing, fishing rods and other methods, recommended to set this to ``true``  |
+| isMovable    |  ``true/false`` - enables or disables movement of the NPC via pushing, fishing rods and other methods, recommended to set this to ``false``  |
 | isInvulnerable |  ``true/false`` - enables or disables the ability for the NPC to take damage, recommended to set this to ``true``   |
 | allowProjectileHits |  ``true/false`` - enables or disables the ability for the NPC to be hit by projectiles, recommended to set this to ``true``   |
 | names |  field where you can add a single or list of names, these names will be randomly applied when the NPC is spawned.   |
