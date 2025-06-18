@@ -1,4 +1,4 @@
-# Cobblemon_Creation_Toolkit
+# Cobblemon_Creation_Toolkit - Cobblemon 1.7.0
 A complete guide on creating additions to Cobblemon such as NPCs, Dialogues, Molang, Flows and more
 
 # A breakdown for how this is formatted
